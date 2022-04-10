@@ -2,7 +2,7 @@
 
 ![HelloWorld](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif) 
 
-**Glad to see you here!** :star_struck: <br /> I'm <strong>Emre Merzifonluoğlu</strong> from Turkey. I have an intermediate level of English. I spend most of my time learning software and software development. The green dots on my [**GitHub** Profile](https://github.com/EmreMer) represent my journey :running_man: I am currently looking for job opportunities as "Jr. Front-end Developer" and I’m currently learning ***React***. You can **find me on [LinkedIn](https://www.linkedin.com/in/emre-merzifonluo%C4%9Flu-9662ab19b/)** 😎.
+**Glad to see you here!** :star_struck: <br /> I'm <strong>Emre Merzifonluoğlu</strong> from Turkey. I spend most of my time learning software and software development. The green dots on my [**GitHub** Profile](https://github.com/EmreMer) represent my journey :running_man: I am currently looking for job opportunities as "Jr. Front-end Developer" and I’m currently learning ***React***.Also, my English level is B2. You can **find me on [LinkedIn](https://www.linkedin.com/in/emre-merzifonluo%C4%9Flu-9662ab19b/)** 😎.
 
 ## Skills and Experience
 * 💻 ***HTML, CSS, JavaScript***
